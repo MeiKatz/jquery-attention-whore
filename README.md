@@ -2,7 +2,7 @@ jQuery Attention Whore
 ================
 Your application just got some news for you and wants your attention? Let's make her an attention whore until you pay attention to her and she shuts up.
 
-How to include
+Invite her to your party
 ----------------
 Just include the following line after you've include the jQuery library:
 ```HTML
